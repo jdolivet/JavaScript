@@ -17,7 +17,7 @@ h3 {
 }
 textarea {
     font-size: 10;
-    font-family: courier;
+    font-family: monospace;
     width: 90%;
     display: block;
     margin-left: auto;
