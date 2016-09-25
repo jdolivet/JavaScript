@@ -1,0 +1,51 @@
+body {
+    background-color: whitesmoke
+}
+h1 {
+    text-align: center;
+    color: grey;
+    font-size: 200%
+}
+h2 {
+    font-family: arial;
+    font-size: 200%;
+    text-align: center;
+}
+h3 {
+    font-family: times;
+    font-style: normal;
+}
+textarea {
+    font-size: 10;
+    font-family: courier;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    color: black;
+}
+table {
+    border-width: 0px;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+td {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+}
+button {
+    font-size: 150%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    font-size: 80%;
+    font-style: italic;
+    text-align: right
+}

@@ -1,0 +1,24 @@
+body {
+  background-color: whitesmoke
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+  font-size: 200%
+}
+
+p {
+  color: black
+}
+
+footer {
+  font-size: 80%;
+  font-style: italic;
+  text-align: right
+}
+
+canvas {
+  border: 1px solid black;
+  background-color: white
+}
