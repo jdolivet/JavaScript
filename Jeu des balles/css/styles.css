@@ -1,0 +1,46 @@
+body {
+	color: black;
+    font-family: Arial;
+	font-size: 12pt;
+	background: #ccc;
+}
+
+footer {
+    position: absolute;
+    margin-top: 100px;
+    right : 10%;
+	color: black;
+    font-family: Arial;
+	font-size: 12pt;
+}
+
+#animation, #consigne, #image {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#recap {
+    text-align : center;
+    margin-top: 60px;
+    margin-bottom: 60px;    
+}
+
+#dessin, #img {
+    background-color: #fff;
+    display: block;
+    margin: auto;
+}
+
+#titre {
+    margin-top: 20px;
+    text-align : center;
+    color: red;
+    font-size: 16pt;
+}
+
+#boutonJeu, #boutonAccueil, #boutonQuitter, #boutonRejouer {
+    margin-top: 20px;
+    margin-right: 10%;
+    float: right;
+}
+
